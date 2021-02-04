@@ -1,2 +1,2 @@
-language: csharp-httprequest
+language: csharp-test-httprequest
 fprocess: dotnet ./root.dll
